@@ -2,17 +2,17 @@
 {
   "files": {
     "main.css": "/vtx_tab/static/css/main.5a27054d.css",
-    "main.js": "/vtx_tab/static/js/main.068b7025.js",
+    "main.js": "/vtx_tab/static/js/main.d8db152e.js",
     "static/js/453.0458f238.chunk.js": "/vtx_tab/static/js/453.0458f238.chunk.js",
     "static/media/im.jfif": "/vtx_tab/static/media/im.cd2b3b844c8bde716e12.jfif",
     "index.html": "/vtx_tab/index.html",
     "main.5a27054d.css.map": "/vtx_tab/static/css/main.5a27054d.css.map",
-    "main.068b7025.js.map": "/vtx_tab/static/js/main.068b7025.js.map",
+    "main.d8db152e.js.map": "/vtx_tab/static/js/main.d8db152e.js.map",
     "453.0458f238.chunk.js.map": "/vtx_tab/static/js/453.0458f238.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a27054d.css",
-    "static/js/main.068b7025.js"
+    "static/js/main.d8db152e.js"
   ]
 
 {
